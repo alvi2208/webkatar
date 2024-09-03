@@ -1907,15 +1907,15 @@ article .align-right {
 
 .team-member img {
   width: 450px;
-  height: 450px;
+  height: 150px;
   object-fit: cover;
-  border-radius: 20%;
-  border: 45px solid #fff;
-  margin-bottom: 15px;
+  border-radius: 6%;
+  border: 30px solid #fff;
+  margin-bottom: 2%;
 }
 
 .team-member h4 {
-  font-size: 20px;
+  font-size: 14px;
   margin: 10px 0 5px;
   color: #333;
 }
