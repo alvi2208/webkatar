@@ -507,7 +507,7 @@ section.callaction {
 }
 
 #content img {
-  max-width: 100%;
+  max-width: 110%;
   height: auto;
 }
 
@@ -1906,11 +1906,11 @@ article .align-right {
 }
 
 .team-member img {
-  width: 150px;
-  height: 150px;
+  width: 450px;
+  height: 450px;
   object-fit: cover;
-  border-radius: 50%;
-  border: 40px solid #fff;
+  border-radius: 20%;
+  border: 45px solid #fff;
   margin-bottom: 15px;
 }
 
