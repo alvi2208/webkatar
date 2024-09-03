@@ -16,15 +16,6 @@ body {
   line-height: 1.6em;
   color: #656565;
 }
-.position-right {
-  text-align: right; /* Menempatkan elemen di sisi kanan */
-}
-
-.img-small-right {
-  width: 250px; /* Sesuaikan dengan ukuran kecil yang diinginkan */
-  height: auto; /* Memastikan rasio aspek gambar tetap */
-  display: inline-block; /* Pastikan gambar tidak mengambil seluruh baris */
-}
 
 a:active {
   outline: 0;
@@ -1898,20 +1889,6 @@ article .align-right {
 .hover-wrap:hover .overlay-img-thumb {
   opacity: 1;
 }
-
-.team-six {
-  padding: 50px 0;
-  background-color: #f9f9f9;
-}
-
-.col-md-3 {
-  display: flex;
-  justify-content: center;
-  align-items: flex-start; /* Aligns items at the top */
-  flex: 0 0 25%; /* Ensures 4 items per row */
-  max-width: 25%;
-}
-
 .team-member {
   text-align: center;
   margin: 45px;
@@ -1933,7 +1910,7 @@ article .align-right {
   height: 150px;
   object-fit: cover;
   border-radius: 50%;
-  border: 10px solid #fff;
+  border: 40px solid #fff;
   margin-bottom: 15px;
 }
 
